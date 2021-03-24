@@ -38,8 +38,8 @@
     <!-- LOG everything at INFO level -->
     <root level="info">
         <appender-ref ref="RollingFile" />
-        <appender-ref ref="Console" />
-    </root>
+<!--         <appender-ref ref="Console" />
+ -->    </root>
 
 
 </configuration>
